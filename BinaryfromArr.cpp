@@ -6,5 +6,7 @@ struct node{
 };
 struct node * newNode()
 {
-  struct
+  struct node *temp=new Node();
+  
+
 }
