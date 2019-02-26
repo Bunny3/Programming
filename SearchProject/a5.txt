@@ -1,0 +1,3 @@
+With the inverted index created, the query can now be resolved by jumping to the word ID (via random access) in the inverted index.
+
+In pre-computer times, concordances to important books were manually assembled. These were effectively inverted indexes with a small amount of accompanying commentary that required a tremendous amount of effort to produce. 
